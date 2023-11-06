@@ -10,6 +10,5 @@ for eg. QuickSort Algo implementation in C, C++ and Python.
 ---
 
 1. LinkedList
-  1. [C](./dsl/c/linkedlist.c)
-  2. [C++](./dsl/c++/linkedlist.cpp)
-
+  - 1. [C](./dsl/c/linkedlist.c)
+    2. [C++](./dsl/c++/linkedlist.cpp)
